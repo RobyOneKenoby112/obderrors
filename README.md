@@ -1,3 +1,5 @@
+# MAZDA
+
 ===PCM DTC P0101:00-68===
 Cod: P0101 - Intervalul/performanţa circuitului de debit de aer masic sau volumetric A
 
@@ -145,4 +147,134 @@ Erorile DTC s-au citit cu success, nici o eroare gasita
 
 Modul: Control automat al temperaturii
 ===END EATC===
+
+# FORD
+
+===OBDII DTC P0401-C===
+Cod: P0401 - Debit insuficient detectat în debitului sistemului EGR
+
+Stare: 
+ - Confirmare - defectiune confirmata 
+
+Modul: On Board Diagnostic II
+
+Diagnosticare Detalii erorii DTC
+
+Debit insuficient detectat în debitului sistemului EGR
+
+Dacă sunt prezente orice alte DTC, trataţi-le pe acestea mai întâi.
+
+Este posibil ca acest vehicul să nu dispună de toate componentele enumerate.
+
+Acest DTC poate fi determinat de:
+
+Supapă EGR sau orificiu de ventilare limitat înfundat sau blocat.
+
+Furtun pentru vid deteriorat sau deconectat.
+
+EVR
+
+
+===END OBDII===
+
+===OBDII DTC P2031-C===
+Cod: P2031 - Circuit senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Stare: 
+ - Confirmare - defectiune confirmata 
+
+Modul: On Board Diagnostic II
+
+Diagnosticare Detalii erorii DTC
+
+Circuit senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Acesta este un DTC general şi, de regulă, ar trebui să însoţească alte DTC
+
+Dacă sunt prezente orice alte DTC, trataţi-le pe acestea mai întâi.
+
+
+===END OBDII===
+
+===PCM DTC P0401===
+Cod: P0401 - Debit insuficient detectat în debitului sistemului EGR
+
+Modul: Modulul electronic al transmisiei
+
+Diagnosticare Detalii erorii DTC
+
+Debit insuficient detectat în debitului sistemului EGR
+
+Dacă sunt prezente orice alte DTC, trataţi-le pe acestea mai întâi.
+
+Este posibil ca acest vehicul să nu dispună de toate componentele enumerate.
+
+Acest DTC poate fi determinat de:
+
+Supapă EGR sau orificiu de ventilare limitat înfundat sau blocat.
+
+Furtun pentru vid deteriorat sau deconectat.
+
+EVR
+
+
+===END PCM===
+
+===PCM DTC P2031===
+Cod: P2031 - Circuit senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Modul: Modulul electronic al transmisiei
+
+Diagnosticare Detalii erorii DTC
+
+Circuit senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Acesta este un DTC general şi, de regulă, ar trebui să însoţească alte DTC
+
+Dacă sunt prezente orice alte DTC, trataţi-le pe acestea mai întâi.
+
+
+===END PCM===
+
+===PCM DTC P2032===
+Cod: P2032 - Circuit redus senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Modul: Modulul electronic al transmisiei
+
+Diagnosticare Detalii erorii DTC
+
+Circuit redus senzor temperatură gaze de evacuare bloc 1 senzor 2
+
+Circuit deschis
+
+Scurtcircuitat la VPWR
+
+
+===END PCM===
+
+===IC DTC ===
+Erorile DTC s-au citit cu success, nici o eroare gasita
+
+Modul: Tablou de bord
+===END IC===
+
+===RCM DTC ===
+Erorile DTC s-au citit cu success, nici o eroare gasita
+
+Modul: Modulul de control al sistemului de imobilizare
+===END RCM===
+
+===GEM DTC ===
+Erorile DTC s-au citit cu success, nici o eroare gasita
+
+Modul: Modul electronic general
+===END GEM===
+
+===ABS DTC ===
+Erorile DTC s-au citit cu success, nici o eroare gasita
+
+Modul: Sistem de antiblocare a frânei
+===END ABS===
+
+
 
